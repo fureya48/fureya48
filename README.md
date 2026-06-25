@@ -1,11 +1,8 @@
 <div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Azzar Budiyanto</h1>
+  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Fathur Rohman Kistanto</h1>
   <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
-    Freelance Software Developer | IoT & Embedded Systems Enthusiast
+    Solution System Developer
   </h4>
-  <p style="max-width:600px; margin:auto; color:#555;">
-    I build web applications and IoT solutions. Focused on open source development and continuous learning.
-  </p>
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">

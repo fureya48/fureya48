@@ -1,98 +1,87 @@
-<div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Fathur Rohman Kistanto</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
-    Solution System Developer
-  </h4>
-</div>
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<h1 align="center">Hi!!! My name is Fathur Rohman K 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Solution Engineer | Fullstack Web Developer</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fureya48&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 30px;">
+  <a href="https://1999azzar.github.io/fureya48/" target="_blank">
+    <img src="/public/grid-snake.svg" alt="-"
+         style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="height: 30px;">
 </div>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<p align="center">
+  <a href="mailto:fathur.rohman2353@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fathurrohman48/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Contact Me</summary>
-  <div align="center">
-    <p>
-      <a href="mailto:fathur.rohman2353@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 30px; margin: 0 5px;">
-      </a>
-      <a href="https://www.linkedin.com/in/fathurrohman48/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-    <p>
-      <a href="https://instagram.com/fathrhmnnn_" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="height: 30px; margin: 0 5px;">
-      </a>
-    </p>
-  </div>
-</details>
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">About Me</summary>
-  <div align="center">
-    <ul style="list-style: none; padding: 0; text-align: left; max-width: 600px; margin: auto; color: #555;">
-      <li><strong>Languages:</strong> JavaScript, PHP, C/C++, Dart</li>
-      <li><strong>Web Development:</strong> Laravel, Nextjs </li>
-      <li><strong>Mobile Development:</strong> Flutter </li>
-      <li><strong>Embedded Systems:</strong> Arduino, ESP32 </li>
-    </ul>
-    <p>Currently developing an CRM System for construction bussiness.</p>
-  </div>
-</details>
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 About Me</h3></legend>
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">GitHub Stats</summary>
-  <div align="center">
-    <table align="center">
-      <tr>
-        <td width="50%" align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=fureya48&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
-        </td>
-        <td width="50%" align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=fureya48&theme=gruvbox&hide_border=true" alt="Streak Stats">
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
+  <em>
+    🔭 Currently focused on building a flexible approval system in Laravel — designing a generic approval engine with polymorphic tables to replace duplicated controllers (recommendation, assessment, verification modules.
+  </em>
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
 
-<details>
-  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">Recent Activity</summary>
-  <div align="center">
-    <a href="https://github.com/fureya48" target="_blank">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fureya48&theme=github-compact&hide_border=true" alt="Activity Graph" style="border-radius: 10px; margin: 0 5px;">
-    </a>
-  </div>
-</details>
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
 
-<h5 style="color: #2e8b57; font-size: 1.4em;">Related Accounts</h5>
-<table align="center" style="border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="padding: 10px;">
-      <a href="https://gist.github.com/fureya48" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gist" style="height: 30px; margin: 0 5px;">
-      </a>
-    </td>
-    <td style="padding: 10px;">
-      <a href="https://github.com/lily-osp/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lily Osp" style="height: 30px; margin: 0 5px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/in/fathurrohman48/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px; margin: 0 5px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/krisnarane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
+</div>
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<br>
+<br>
 
-<p align="center">Credits: <a href="https://github.com/fureya48">Fureya48</a></p>
+- 📫 Contato: **jkrisnarane@gmail.com**
+
+<p align="center"> 
